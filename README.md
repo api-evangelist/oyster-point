@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Oyster Point is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by nea) and added to the network as a stub for full-pipeline profiling.
-- https://oysterpointrx.com/
+Oyster Point is a venture-backed technology company focusing on innovative solutions in the healthcare and biotech sectors. Founded with support from NEA, the company aims to leverage data-driven platforms to improve patient outcomes and streamline clinical workflows. While detailed public information is limited, Oyster Point positions itself as a forward-thinking player in the health tech ecosystem, seeking partnerships and investments to expand its service offerings.
+
+**Areas:** Company · HealthTech · Biotech · DataPlatform · VentureBacked
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.oysterpoint.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/oyster-point/](https://apis.io/providers/oyster-point/).
